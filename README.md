@@ -3,6 +3,12 @@
  **Computer Science @ UC Irvine**  
  Interested in Cybersecurity and Information
 
+ ---
+
+ 📫 **Contact Me**<br>
+ - LinkedIn: https://www.linkedin.com/in/gluu/
+ - Email: gavinb2474@gmail.com
+
 <!--
 **firo76-dev/firo76-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
