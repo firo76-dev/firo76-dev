@@ -1,6 +1,6 @@
 # Welcome 👋
 
- **Computer Science @ UC Irvine**
+ **Computer Science @ UC Irvine**  
  Interested in Cybersecurity and Information
 
 <!--
