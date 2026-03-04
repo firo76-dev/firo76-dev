@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome 👋
+
+---
+
+Computer Science @ UC Irvine
+
 
 <!--
 **firo76-dev/firo76-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
