@@ -1,10 +1,7 @@
-## Welcome 👋
+# Welcome 👋
 
-Aasdfasdf
----
-
-Computer Science @ UC Irvine
-
+**Computer Science @ UC Irvine**
+Interested in Cybersecurity and Information
 
 <!--
 **firo76-dev/firo76-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
